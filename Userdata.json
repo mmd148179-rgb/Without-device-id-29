@@ -18,9 +18,9 @@
       "device_limit": 3
     },
     {
-      "username": "testkey",
-      "password": "testpass",
-      "expire_date": "2025-10-25",
+      "username": "rr",
+      "password": "11",
+      "expire_date": "2025-11-25",
       "device_limit": 1
     }
   ]
